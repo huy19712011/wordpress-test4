@@ -1,4 +1,6 @@
 <?php
+define('WP_HOME','http://bkacad-wp-test4.herokuapp.com/app/public');
+define('WP_SITEURL','http://bkacad-wp-test4.herokuapp.com/app/public');
 /**
  * The base configuration for WordPress
  *
